@@ -1,0 +1,11 @@
+﻿langgraph>=1.0,<2
+langchain>=1.0,<2
+langchain-core
+langchain-google-genai
+pydantic>=2,<3
+requests>=2.31
+rank-bm25>=0.2
+sentence-transformers>=3.4
+numpy
+python-dotenv
+truststore
